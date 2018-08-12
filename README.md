@@ -1,9 +1,9 @@
 # 3D-engine-using-Vb.net
 This program using  
 
-              - Geomatry.dll
+              - Geometry3D.dll
               
-              - Advancedmath.dll 
+              - AdvanceMath.dll 
               
               - From other project
               
