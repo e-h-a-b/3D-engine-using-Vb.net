@@ -1,0 +1,12 @@
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\3d Program\bin\Debug\3d Program.exe
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\3d Program\bin\Debug\3d Program.pdb
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\3d Program\bin\Debug\3d Program.xml
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\3d Program\bin\Debug\AdvanceMath.dll
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\3d Program\bin\Debug\Geometry3D.dll
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\3d Program\obj\x86\Debug\3d Program.vbprojResolveAssemblyReference.cache
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\3d Program\obj\x86\Debug\_3d_Program.Form1.resources
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\3d Program\obj\x86\Debug\_3d_Program.Resources.resources
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\3d Program\obj\x86\Debug\3d Program.vbproj.GenerateResource.Cache
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\3d Program\obj\x86\Debug\3d Program.exe
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\3d Program\obj\x86\Debug\3d Program.xml
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\3d Program\obj\x86\Debug\3d Program.pdb
